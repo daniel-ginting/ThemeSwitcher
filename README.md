@@ -7,4 +7,5 @@ This app uses vanilla javascript.
 
 To open the app on Live Web, click on the link below:
 
-https://theme-switcher-2022-daniel.herokuapp.com/
+<a href="http://example.com/" target="_blank">Hello, world!</a>
+
