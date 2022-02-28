@@ -17,7 +17,7 @@ https://theme-switcher-2022-daniel.herokuapp.com/
 - CSS
 - Javascript
 
-Note that: This app uses vanilla javascript and no
+Note that: This app uses vanilla javascript and no 
 
 
 ## Run App Locally
