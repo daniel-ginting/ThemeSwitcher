@@ -25,7 +25,7 @@ Note that: This app uses vanilla javascript and no framework!
 How to Run it locally:
 
 1. Clone this repo on your machine.
-2. Run this app locally by either opening the index.html or usilive-server
+2. Run this app locally by either opening the index.html or usinlive-server
 
 ## Author
 
