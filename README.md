@@ -2,7 +2,7 @@
 
 ## Quick Definition
 
-In this app, user are able to shift the color theme of the site between
+In this app, user are able to shift the color theme of the site between D
 
 ## Live Site
 
@@ -30,7 +30,7 @@ How to Run it locally:
 ## Author
 
 This App is made by Daniel Ginting (me):
-<!-- - Website - [Add your name here](https://www.your-site.com) -->
+- Website - [Daniel Ginting](https://www.danielyosua.com)
 - Github - [@daniel-ginting](https://github.com/daniel-ginting)
 - LinkedIn - [Daniel Ginting](https://www.linkedin.com/in/daniel-ginting-409813224/)
 - Discord - [DanielGinting#0651](https://discordapp.com/users/796539553761984565)
