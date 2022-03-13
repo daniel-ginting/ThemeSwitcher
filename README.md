@@ -2,7 +2,7 @@
 
 ## Quick Definition
 
-In this app, user are able to shift the color theme of the site between Dark a
+In this app, user are able to shift the color theme of the site between Dark an
 
 ## Live Site
 
